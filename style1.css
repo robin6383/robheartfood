@@ -346,3 +346,7 @@
     background-color: #262626;
     color: white;
   }
+body
+{
+    overflow-x:hidden;
+}
